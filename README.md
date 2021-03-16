@@ -2,4 +2,8 @@
 
 first comment
 
-this is a change on newbranch.
+<<<<<<< HEAD
+
+=======
+second comment
+>>>>>>> main
