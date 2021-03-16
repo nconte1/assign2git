@@ -2,8 +2,5 @@
 
 first comment
 
-<<<<<<< HEAD
-
-=======
 second comment
->>>>>>> main
+	
